@@ -2,36 +2,25 @@
 
 #### By Elle Hailu
 
-#### _{Brief description of application}_
+#### A webpage designed to house future work samples
 
 ## Technologies Used
 
-- HTML
-- CSS
-- _you used in your project_
-- _here_
+* HTML
+* CSS
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+This is a portfolio webpage using HTML and CSS. In the future this will act
+as the landing page for my programming portfolio.
 
 ## Setup/Installation Requirements
 
-- _This is a great place_
-- _to list setup instructions_
-- _in a simple_
-- _easy-to-understand_
-- _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+There are no setup/installation requirements for to view this webpage. If you would to view the code, you can clone this repository to your desktop. Then open index.html. 
 
 ## Known Bugs
 
-- _Any known issues_
-- _should go here_
+* This current version of the webpage has no known bugs.
 
-## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}_
-
-Copyright (c) _05/26/2023_ _Elle Hailu_
+Copyright (c) 2023 Elle Hailu
