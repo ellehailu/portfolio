@@ -1,6 +1,6 @@
-# _{Application Name}_
+# Portfollio Landingpage
 
-#### By _**{List of contributors}**_
+#### By Elle Hailu
 
 #### _{Brief description of application}_
 
