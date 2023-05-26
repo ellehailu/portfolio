@@ -1,25 +1,34 @@
 .introduction {
-   
     text-align: center;
     background-color: black;
     color: white;
+    padding: 10px;
+    margin: 20px;
 }
 .introduction img {
     width: 50%;
     height:auto;
     filter: grayscale(100%);
+    padding: 10px;
+    border-radius: 10%;
 }
 
 .work {
     background-color: black;
     color: white;
+    padding: 10px;
+    margin: 14px;
 }
 
 .experience {
     background-color: black;
     color: white;
+    padding: 10px;
+    margin: 7px;
 }
 
-.highlight {
-    color:plum;
+@media screen and (max-width: 480px) and (min-width: 320px) {
+    .introduction {
+        font-size: 16px;   
+    }
 }
