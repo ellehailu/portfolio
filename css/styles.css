@@ -1,5 +1,10 @@
 .introduction {
-
+    text-align: center;
+}
+.introduction img {
+    width: 50%;
+    height:auto;
+    filter: grayscale(100%);
 }
 
 .work {
@@ -7,5 +12,5 @@
 }
 
 .experience {
-    
+
 }

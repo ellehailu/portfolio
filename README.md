@@ -6,8 +6,8 @@
 
 ## Technologies Used
 
-- _List all_
-- _the major technologies_
+- HTML
+- CSS
 - _you used in your project_
 - _here_
 
@@ -34,4 +34,4 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 _{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _05/26/2023_ _Elle Hailu_
