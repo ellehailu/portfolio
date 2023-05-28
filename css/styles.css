@@ -1,10 +1,14 @@
+
+body{
+    background-color: rgb(251, 230, 205);
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
 .introduction {
     text-align: center;
-    background-color: black;
-    color: white;
     padding: 10px;
     margin: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    
 }
 .introduction img {
     width: 50%;
@@ -15,19 +19,13 @@
 }
 
 .work {
-    background-color: black;
-    color: white;
     padding: 10px;
     margin: 14px;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 .experience {
-    background-color: black;
-    color: white;
     padding: 10px;
     margin: 7px;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 @media screen and (max-width: 480px) and (min-width: 320px) {
