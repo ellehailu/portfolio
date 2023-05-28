@@ -6,8 +6,8 @@
 
 ## Technologies Used
 
-* HTML
-* CSS
+- HTML
+- CSS
 
 ## Description
 
@@ -16,11 +16,10 @@ as the landing page for my programming portfolio.
 
 ## Setup/Installation Requirements
 
-There are no setup/installation requirements for to view this webpage. If you would to view the code, you can clone this repository to your desktop. Then open index.html. 
+There are no setup/installation requirements for to view this webpage. If you would to view the code, you can clone this repository to your desktop. Then open index.html.
 
 ## Known Bugs
 
-* This current version of the webpage has no known bugs.
-
+- The profile photos use are not equal in size so when transitioning to the second photo the user can see the bottom edges of the first photo under.
 
 Copyright (c) 2023 Elle Hailu
