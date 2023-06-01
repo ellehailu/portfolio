@@ -1,4 +1,4 @@
-# Portfollio Landingpage
+# Portfolio Landingpage
 
 #### By Elle Hailu
 
