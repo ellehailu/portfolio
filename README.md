@@ -27,6 +27,8 @@ To access the portfolio on github pages go to ellehailu.github.io/portfolio
 
 MIT
 
+This is licensed under the terms of the MIT Open Source License and is available for free.
+
 - If you run into any issues or have questions, ideas, or concerns, please reach out to Elle Hailu via email at hailu.elle@gmail.com
 
   Copyright (c) 2023 Elle Hailu
