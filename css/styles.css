@@ -9,6 +9,7 @@ body{
     padding: 10px;
     margin: 20px;
     text-align: center;
+    
 
 }
 .images {
@@ -34,6 +35,7 @@ body{
 .work {
     padding: 10px;
     margin: 14px;
+    float: left;
 }
 
 .experience {
