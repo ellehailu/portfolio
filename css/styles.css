@@ -2,15 +2,12 @@
 body{
     background-color: rgb(251, 230, 205);
     color: black;
-    font-family: 'Courier New', Courier, monospace;
-    
+    font-family: 'Courier New', Courier, monospace;    
 }
 .introduction {
     padding: 10px;
     margin: 20px;
     text-align: center;
-    
-
 }
 .images {
     filter: grayscale(100%);
@@ -19,7 +16,6 @@ body{
     position: relative;
     left: 25%;
 }
-
 .top-img {
     position: absolute;
     left: 0;
@@ -27,22 +23,18 @@ body{
     opacity: 0;
     transition: 0.9s;
 }
-
 .top-img:hover {
     opacity: 1;
 }
-
 .work {
     padding: 10px;
     margin: 14px;
     float: left;
 }
-
 .experience {
     padding: 10px;
     margin: 7px;
 }
-
 @media screen and (max-width: 480px) and (min-width: 320px) {
     .introduction {
         font-size: 16px;   
